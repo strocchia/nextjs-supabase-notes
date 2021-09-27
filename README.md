@@ -1,4 +1,4 @@
-### Inspiration
+## Inspiration
 
 See:
 
@@ -6,6 +6,7 @@ See:
 
 - https://github.com/dabit3/supabase-next.js
 
+---
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
