@@ -48,7 +48,7 @@ export const useAuth = () => {
     throw new Error(`useUser must be used within a UserContextProvider.`);
   }
 
-  console.log("useAuth:", context);
+//   console.log("useAuth:", context);
 
   return context;
 };
